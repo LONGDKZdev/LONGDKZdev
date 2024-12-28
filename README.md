@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @LONGDKZdev
-- ![Autumn Animation](https://github.com/LONGDKZdev/LONGDKZdev/blob/main/1_tjHTmF_1SUY6_pykU6_VpQ.gif)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%;">
+    👋Hi! I'm LONGDKZdev
+    🛠️ my technology used:
+    Frontend: JavaSwing,...
+    Backend: C++, Java,...
+    Database: SQL sever.
+    Tools: Git, Eclipse, VSCode, NetBeans.
+</div>
 
-<!---
-LONGDKZdev/LONGDKZdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div style="width: 40%;">
+    ![Autumn Animation](https://github.com/LONGDKZdev/LONGDKZdev/blob/main/1_tjHTmF_1SUY6_pykU6_VpQ.gif)
+  </div>
+</div>
