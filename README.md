@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LONGDKZdev
-- ![Autumn Animation](https://imgur.com/9tydve3)
+- ![Autumn Animation](https://imgur.com/a/code-gif-4Ohjgjq)
 
 <!---
 LONGDKZdev/LONGDKZdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
