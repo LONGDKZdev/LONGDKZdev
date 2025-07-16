@@ -31,4 +31,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add README.md charts/
           git commit -m "Auto update dashboard"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/LONGDKZdev/Dashboard.git HEAD:main
