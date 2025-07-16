@@ -15,7 +15,7 @@ jobs:
       - name: Copy dashboard files
         run: |
           mkdir sync
-          cp README.md sync/README_dashboard.md
+          cp Readme.md sync/README_dashboard.md
           cp -r charts sync/
 
       - name: Push to LONGDKZdev repo (profile)
