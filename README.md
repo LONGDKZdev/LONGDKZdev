@@ -13,7 +13,6 @@
 ## 📦 Repositories Overview
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONGDKZdev&theme=github_dark)
-
 ![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONGDKZdev&theme=github_dark)
 
 ## 🧮 Overview
