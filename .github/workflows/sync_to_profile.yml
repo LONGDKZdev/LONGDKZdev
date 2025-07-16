@@ -21,7 +21,7 @@ jobs:
       - name: Push to LONGDKZdev repo (profile)
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.TARGET_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           repository: LONGDKZdev/LONGDKZdev
           branch: main
           directory: sync
