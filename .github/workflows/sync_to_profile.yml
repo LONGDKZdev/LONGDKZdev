@@ -15,7 +15,7 @@ jobs:
       - name: Copy dashboard files
         run: |
           mkdir sync
-          cp Readme.md sync/README_dashboard.md
+          cp README.md sync/README_dashboard.md
           [ -d charts ] && cp -r charts sync/
 
 
