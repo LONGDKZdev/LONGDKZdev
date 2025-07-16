@@ -16,7 +16,8 @@ jobs:
         run: |
           mkdir sync
           cp Readme.md sync/README_dashboard.md
-          cp -r charts sync/
+          [ -d charts ] && cp -r charts sync/
+
 
       - name: Push to LONGDKZdev repo (profile)
         uses: ad-m/github-push-action@v0.6.0
