@@ -6,7 +6,7 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=LONGDKZdev&theme=darkhub&no-frame=true)](https://github.com/LONGDKZdev)
 
-## 🧠 Top Ngôn Ngữ
+## 🧠 Top Language
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LONGDKZdev&layout=compact&theme=github_dark)](https://github.com/LONGDKZdev)
 
@@ -16,6 +16,6 @@
 
 ![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONGDKZdev&theme=github_dark)
 
-## 🧮 Tổng Quan
+## 🧮 Overview
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONGDKZdev&theme=github_dark)
