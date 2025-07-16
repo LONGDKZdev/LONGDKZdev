@@ -14,7 +14,7 @@ public_repos = len(repos)
 # Thống kê ngôn ngữ
 lang_count = {}
 for repo in repos:
-    lang = repo.language
+    lang = repo["language"]
     if lang:
         lang_count[lang] = lang_count.get(lang, 0) + 1
 
