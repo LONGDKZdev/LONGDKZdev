@@ -30,7 +30,7 @@ os.makedirs("charts", exist_ok=True)
 plt.savefig('charts/lang_chart.png')
 
 # Cập nhật README.md
-with open("README.md", "w", encoding="utf-8") as f:
+with open("README.md", "a", encoding="utf-8") as f:
     f.write(f"""# 👨‍💻 Dashboard của {USERNAME}
 
 ## 📦 Tổng số repo: {public_repos}
