@@ -25,10 +25,10 @@ jobs:
       - name: Chạy script cập nhật
         run: python update_readme.py
 
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md charts/
-          git commit -m "Auto update dashboard"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/LONGDKZdev/Dashboard.git HEAD:main
+- name: Commit & Push
+  run: |
+    git config user.name "github-actions"
+    git config user.email "github-actions@github.com"
+    git add .
+    git commit -m "Auto update dashboard" || echo "Nothing to commit"
+    git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/LONGDKZdev/Dashboard.git HEAD:main
