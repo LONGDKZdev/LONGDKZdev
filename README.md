@@ -1,19 +1,43 @@
+<h1 align="center">Hi there 👋, I'm LONGDKZdev</h1>
+
+---
+
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=LONGDKZdev&show_icons=true&theme=github_dark)](https://github.com/LONGDKZdev)
-[![Streak](https://streak-stats.demolab.com?user=LONGDKZdev&theme=github_dark)](https://github.com/LONGDKZdev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LONGDKZdev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=LONGDKZdev&theme=github_dark" alt="GitHub Streak" />
+</p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=LONGDKZdev&theme=darkhub&no-frame=true)](https://github.com/LONGDKZdev)
+---
 
-## 🧠 Top Language
+## 🏆 GitHub Trophies
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LONGDKZdev&layout=compact&theme=github_dark)](https://github.com/LONGDKZdev)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LONGDKZdev&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONGDKZdev&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
 
 ## 📦 Repositories Overview
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONGDKZdev&theme=github_dark)
-![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONGDKZdev&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONGDKZdev&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONGDKZdev&theme=github_dark" alt="Most Commit Languages" />
+</p>
 
-## 🧮 Overview
+---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONGDKZdev&theme=github_dark)
+## 🧮 Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONGDKZdev&theme=github_dark" alt="Profile Details" />
+</p>
