@@ -54,7 +54,7 @@
 </p>
 
 ---
-
+<!--
 ## 🧠 Top Languages
 
 <p align="center">
@@ -62,7 +62,7 @@
 </p>
 
 ---
-
+-->
 ## 📦 Repositories Overview
 
 <p align="center">
