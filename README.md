@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm LONGDKZdev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Self-taught+Developer+from+Vietnam;C%23+%7C+React+Native+%7C+Azure+%7C+Umbraco+CMS;Love+building+useful+tools+and+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&lines=Aspiring+Developer+from+Vietnam;Learning:+Kotlin+%7C+C%23+%7C+Java+%7C+C%2B%2B+%7C+Python;Want+explore+backend,+tools,+and+cloud!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -34,10 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET" />
 </p>
-
-
-
-
 
 ---
 
