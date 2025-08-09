@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <strong>🧠 Languages & Frameworks</strong><br><br>
+  <strong>🧠 Languages & Frameworks I was learn </strong><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" title="Kotlin" />
