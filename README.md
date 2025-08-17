@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm LONGDKZdev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=2000&center=true&width=800&lines=Hi+there+,+I'm+LONGDKZdev;Aspiring+Developer+from+Vietnam;Learning:+Kotlin+%7C+C%23+%7C+Java+%7C+C%2B%2B+%7C+Python;Want+explore+backend,+tools,+and+cloud!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=2000&center=true&width=800&lines=Hi+there+,+I'm+LONGDKZdev;Developer+from+Vietnam;Learning:+Kotlin+%7C+C%23+%7C+Java+%7C+C%2B%2B+%7C+Python;Want+explore+backend,+tools,+and+cloud!" alt="Typing SVG" />
 </p>
 
 
